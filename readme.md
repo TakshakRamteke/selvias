@@ -3,6 +3,12 @@
 # selvias ✨
 An app that helps user's schedule & crosspost over a wide array of social media platform that include but aren’t limited to instagram, twitter, linkedin, etc...
 
+## get involved 🤝
+
+[report a bug](https://github.com/TakshakRamteke/selvias/issues/new), get some 🟩
+
+got any idea/suggestion for us, great ! please feel free to share with us by [opening a discussion](https://github.com/TakshakRamteke/selvias/discussions/new) we'd love to discuss it out with you
+
 ## dev setup 🍒
 
 1. [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo
@@ -11,7 +17,6 @@ An app that helps user's schedule & crosspost over a wide array of social media 
 1. create a `.env` file with all the variables listed in `.env.example`
 1. `yarn prisma migrate`
 1. `yarn dev`
-
 
 ## licence 📜
 
